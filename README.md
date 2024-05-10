@@ -1,0 +1,2 @@
+# almanack
+Almanack Magazine
